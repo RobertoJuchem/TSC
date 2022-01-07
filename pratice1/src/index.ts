@@ -56,4 +56,4 @@ function deleteItemList(itemPosition: number){
     dataBase()
 }
 
-printTasks()// chamo aqui fora para já ficar a lista salva disponível.
+printTasks()
